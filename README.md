@@ -32,10 +32,15 @@ This Banking Fraud Detection & Risk Analytics Dashboard is an interactive Power 
 
 
 
+-----
+📬 Connect With Me
+-
+- 💼 Role : Aspiring Data Analyst
+- 📧 Email :kumarshagun978@gmail.com
+- 🔗 LinkedIn :https://www.linkedin.com/in/shagun-8544962a0/
+- 📢 Open To Work : Data Analyst | BI Analyst | Business Analyst
 
-
-
-
+------
 
 
 
