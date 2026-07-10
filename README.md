@@ -19,7 +19,17 @@ This Banking Fraud Detection & Risk Analytics Dashboard is an interactive Power 
 
 
 
+🌐 Tools & Technologies
 
+----
+- Power BI
+-Excel/CSV Dataset
+- Python(Numpy/Pandas)
+- Data Visulization
+- Dax Measures
+- SQL
+
+-------
 
 
 
