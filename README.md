@@ -22,8 +22,7 @@ This Banking Fraud Detection & Risk Analytics Dashboard is an interactive Power 
 - 📈 Analyze Customer Transaction Behavior including login attempts, transaction frequency, daily transaction count, and transaction time to uncover unusual or abnormal activity patterns.
 - 🚀 Support Data-Driven Decision Making by providing actionable insights that help banking teams improve fraud detection, strengthen security controls, and optimize operational efficiency.
 - 💡 Reduce Financial Losses and Enhance Customer Trust by enabling faster fraud investigations, improving risk monitoring, and implementing preventive strategies based on analytical insights.
-- 📉 Improve Fraud Prevention Strategies through continuous monitoring of transaction trends, high-risk indicators, and historical fraud patterns to enhance overall banking security.
-- 📌 Build an Interactive Executive Dashboard that transforms complex banking data into clear visual insights, allowing stakeholders to make faster and more informed business decisions.
+
 
 
 ------
