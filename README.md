@@ -25,8 +25,9 @@ This Banking Fraud Detection & Risk Analytics Dashboard is an interactive Power 
 
 
 ## Dashboard Preview
+-----
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 
 
