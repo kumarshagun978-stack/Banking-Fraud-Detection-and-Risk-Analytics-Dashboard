@@ -37,7 +37,16 @@ This Banking Fraud Detection & Risk Analytics Dashboard is an interactive Power 
 - SQL
 
 -------
-
+📈 Key Business Insights
+-
+- 💰 Processed transactions worth 124.13M, providing a comprehensive view of overall banking activity and transaction volume.
+- 🚨 Identified 1,000 fraudulent transactions, enabling the bank to detect suspicious activities early and strengthen fraud prevention measures.
+- ⚠️ Detected 2,000 high-risk transactions, allowing risk teams to prioritize investigations and reduce potential financial losses.
+- ❌ Recorded over 124K failed transactions, highlighting areas where authentication failures or transaction issues require immediate attention.
+- 📱 Mobile App emerged as the highest transaction and fraud-contributing channel, indicating the need for enhanced monitoring and stronger security controls on digital banking platforms.
+- 🔐 OTP authentication showed the highest number of failed transaction attempts, suggesting opportunities to improve authentication processes and reduce unauthorized access.
+- ⏰ Transaction time analysis revealed peak banking activity hours, helping the business optimize fraud monitoring and allocate security resources more effectively.
+- 📊 Customer behavioral metrics such as login attempts, transaction frequency, anomaly score, and transaction velocity successfully identified unusual transaction patterns associated with fraud.
 
 
 
