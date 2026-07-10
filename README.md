@@ -34,7 +34,6 @@ This Banking Fraud Detection & Risk Analytics Dashboard is an interactive Power 
 
 This dashboard helps financial institutions proactively identify fraud patterns, monitor high-risk transactions, and strengthen banking security through real-time data analysis. By analyzing 124.13M in transaction value, 1,000 fraud cases, 2,000 high-risk transactions, and 124K failed transactions, it highlights the areas that require immediate attention. The insights reveal that Mobile App transactions account for the highest activity and fraud incidents, while OTP authentication records the most failed attempts, indicating potential security vulnerabilities. The dashboard also uncovers transaction trends, peak activity hours, login behavior, and payment channel performance, enabling faster fraud investigations and smarter resource allocation. These findings empower decision-makers to enhance authentication processes, prioritize high-risk channels, reduce financial losses, improve customer trust, and build more effective fraud prevention strategies through data-driven decisions.
 
-
 -----
 📬 Connect With Me
 -
